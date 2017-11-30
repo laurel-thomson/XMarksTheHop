@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BreweryApp</string>
+
+    <string-array name="cities">
+        <item>Manhattan</item>
+        <item>Lawrence</item>
+        <item>Garden City</item>
+    </string-array>
+</resources>
